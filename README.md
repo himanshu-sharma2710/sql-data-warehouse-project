@@ -1,4 +1,4 @@
-# data warehouse and analytics report
+# Data Warehouse and Analytics Report
 
 Welcome to 'Data warehouse and analytics report' repository !
 
