@@ -31,7 +31,7 @@ Data Modeling
 Data Analytics
 
 
-🚀 Project Requirements
+🚀 **Project Requirements**
 Building the Data Warehouse (Data Engineering)
 
 Objective
@@ -48,6 +48,9 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+
+**Data Architecture**
 
 <img width="722" height="747" alt="image" src="https://github.com/user-attachments/assets/732412e2-b73d-40bd-93c6-a094520d10fb" />
 
